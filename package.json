@@ -1,0 +1,19 @@
+{
+  "name": "url-import-webpack-plugin",
+  "version": "0.0.1-alpha.0",
+  "description": "Load other Webpack bundles or chunk from the frontend. Without providing any context at build time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zack Jackson <zack@ScriptedAlchemy.com> (https://github.com/ScriptedAlchemy)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScriptedAlchemy/url-import-webpack-plugin.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScriptedAlchemy/url-import-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/ScriptedAlchemy/url-import-webpack-plugin#readme"
+}
